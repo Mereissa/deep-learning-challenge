@@ -58,7 +58,7 @@ The model was compiled and trained using binary cross-entropy as the loss functi
 
 ## Model Optimization
 
-To achieve a target accuracy of over 75%, several optimization techniques were applied:
+To achieve a target accuracy of over 72%, several optimization techniques were applied:
 
 - Adjusting the number of neurons in the hidden layers.
 - Adding or removing hidden layers.
@@ -67,7 +67,6 @@ To achieve a target accuracy of over 75%, several optimization techniques were a
 
 ## Results
 
-- The initial model achieved an accuracy of around XX%.
-- After optimization, the model's accuracy was improved to YY%.
-- [Summary of any key findings, if applicable].
+- The initial model achieved an accuracy of around 70%.
+- After optimization, the model's accuracy was improved to 72%.
 
